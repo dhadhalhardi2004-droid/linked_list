@@ -1,1 +1,1 @@
-https://github.com/dhadhalhardi2004-droid/linked_list.git# linked_list.cpp
+https://github.com/dhadhalhardi2004-droid/linked_list.git
